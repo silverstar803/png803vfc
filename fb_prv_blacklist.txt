@@ -1,5 +1,5 @@
 # Title: DNS-Filter Liste
-# Last modified: 20 Sep 2026
+# Last modified: 30.09.2026
 bild.de
 1rx.io
 2mdn.net
