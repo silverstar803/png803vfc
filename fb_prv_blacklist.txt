@@ -1,0 +1,8 @@
+# Title: DNS-Filter Liste
+# Last modified: 20 Sep 2026
+#
+bild.de
+tiktok.com
+tiktokcdn.com
+tiktokv.com
+musical.ly
