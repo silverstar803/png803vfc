@@ -93,6 +93,7 @@ alliance4media.com
 aolcdn.com
 apester.com
 apigurus.com
+api.x.ai
 asadcdn.com
 atdmt.com
 aticdn.net
@@ -228,6 +229,7 @@ grandonmedia.com
 greatviews.de
 guruads.de
 gzhls.at
+grok.com
 heias.com
 hoffmanbroker.com
 hostinger.eu
@@ -480,6 +482,7 @@ xhamster.com
 xing-share.com
 xiti.com
 xplosion.de
+x.ai
 yagiay.com
 yahoo.com
 yahoo.de
