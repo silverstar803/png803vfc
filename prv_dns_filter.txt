@@ -1,0 +1,14 @@
+# Title: DNS-Filter Liste
+# Last modified: 09.10.2026
+bild.de
+msn.com
+onlyfans.com
+# TikTok
+tiktok.com
+tiktokcdn.com
+tiktokv.com
+musical.ly
+# Grok
+grok.com
+x.ai
+api.x.ai
