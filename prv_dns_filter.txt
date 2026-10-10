@@ -1,5 +1,5 @@
 # Title: DNS-Filter Liste
-# Last modified: 09.10.2026
+# Last modified: 10.10.2026
 bild.de
 msn.com
 onlyfans.com
