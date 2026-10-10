@@ -6,6 +6,10 @@ onlyfans.com
 grok.com
 x.ai
 api.x.ai
+patreon.com
+fansly.com
+mdh.to
+mydirtyhobby.de
 
 # clubhouse
 0.0.0.0 joinclubhouse.com
