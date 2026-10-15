@@ -11,6 +11,8 @@ fansly.com
 mdh.to
 mydirtyhobby.de
 charlottelily.com
+depop.com
+gaml.app
 
 # clubhouse
 0.0.0.0 joinclubhouse.com
