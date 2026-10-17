@@ -1,4 +1,4 @@
-# Title: DNS-Filter Liste (Clubhouse, DateMeme, Dating sites, LinkedIn, MySpace, Pinterest, Snapchat, Threads, Tumblr, TikTok, TikTok clone, Twitch, Twitter (X), Other)
+# Title: DNS-Filter Liste (Clubhouse, DateMeme, Dating sites, Grok AI, LinkedIn, MySpace, MyDirtyHobby, Pinterest, Snapchat, Threads, Tumblr, TikTok, TikTok clone, Twitch, Twitter (X), Other)
 # Last modified: 17.10.2026
 bild.de
 msn.com
@@ -8,15 +8,6 @@ charlottelily.com
 depop.com
 gaml.app
 patreon.com
-
-# Grok AI
-grok.com
-x.ai
-api.x.ai
-
-# MyDirtyHobby
-mdh.to
-mydirtyhobby.de
 
 # clubhouse
 0.0.0.0 joinclubhouse.com
@@ -66,6 +57,11 @@ mydirtyhobby.de
 0.0.0.0 sniffies.com
 0.0.0.0 tinder.com
 0.0.0.0 weareher.com
+
+# Grok AI
+grok.com
+x.ai
+api.x.ai
 
 # LinkedIn
 0.0.0.0 about.linkedin.com
@@ -390,6 +386,10 @@ mydirtyhobby.de
 0.0.0.0 zh-tw.help.linkedin.com
 0.0.0.0 zm.linkedin.com
 0.0.0.0 zw.linkedin.com
+
+# MyDirtyHobby
+mdh.to
+mydirtyhobby.de
 
 # MySpace
 0.0.0.0 a1-images.myspacecdn.com
