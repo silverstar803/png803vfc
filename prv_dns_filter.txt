@@ -1,5 +1,5 @@
 # Title: DNS-Filter Liste (Clubhouse, DateMeme, Dating sites, Grok AI, LinkedIn, MySpace, MyDirtyHobby, Pinterest, Snapchat, Threads, Tumblr, TikTok, TikTok clone, Twitch, Twitter (X), Other)
-# Last modified: 17.10.2026
+# Last modified: 20.10.2026
 bild.de
 msn.com
 onlyfans.com
