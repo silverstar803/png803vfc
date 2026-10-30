@@ -1,11 +1,9 @@
 Steuerung:
-
-Tastatur: Pfeiltasten oder WASD. Mit der Leertaste startest du, pausierst du oder spielst neu.
-Handy/Tablet: Wischen auf dem Spielfeld oder die Pfeiltasten unter dem Feld. Ein Tipp auf das Feld startet und pausiert.
+- Tastatur: Pfeiltasten oder WASD. Mit der Leertaste startest du, pausierst du oder spielst neu.
+- Handy/Tablet: Wischen auf dem Spielfeld oder die Pfeiltasten unter dem Feld. Ein Tipp auf das Feld startet und pausiert.
 
 Das kann das Spiel:
-
-Die Schlange wird mit jedem Futter schneller.
-Der Rekord bleibt im Browser gespeichert.
-Die Checkbox „Durch Wände“ schaltet das Spiel auf Wrap-around um, dann kommt die Schlange auf der anderen Seite wieder raus.
-Wenn du den Tab wechselst, pausiert das Spiel von selbst.
+- Die Schlange wird mit jedem Futter schneller.
+- Der Rekord bleibt im Browser gespeichert.
+- Die Checkbox „Durch Wände“ schaltet das Spiel auf Wrap-around um, dann kommt die Schlange auf der anderen Seite wieder raus.
+- Wenn du den Tab wechselst, pausiert das Spiel von selbst.
