@@ -1,4 +1,4 @@
-# Title: DNS-Filter Liste (Clubhouse, Copilot, DateMeme, Dating sites, Facebook, Grok AI, LinkedIn, MySpace, MyDirtyHobby, Pinterest, Snapchat, Threads, Tumblr, TikTok, TikTok clone, Twitch, Twitter (X), Other)
+# Title: DNS-Filter Liste (Clubhouse, Copilot, DateMeme, Dating sites, Facebook, Grok AI, ko-fi, LinkedIn, MySpace, MyDirtyHobby, Pinterest, Snapchat, Threads, Tumblr, TikTok, TikTok clone, Twitch, Twitter (X), Other)
 # Last modified: 20.10.2026
 bild.de
 msn.com
