@@ -1941,6 +1941,10 @@ grok.com
 x.ai
 api.x.ai
 
+# ko-fi
+ko-fi.com
+*.ko-fi.com
+
 # LinkedIn
 0.0.0.0 about.linkedin.com
 0.0.0.0 addtoprofile.linkedin.com
