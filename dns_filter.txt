@@ -9,6 +9,7 @@ depop.com
 gaml.app
 patreon.com
 poppen.de
+fansly.com
 
 # Bing.com
 bing.com
