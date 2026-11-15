@@ -1,5 +1,5 @@
 # Title: DNS-Filter Liste (Bing.com, Clubhouse, Copilot, DateMeme, Dating sites, Facebook, Grok AI, ko-fi, LinkedIn, Meta AI, MySpace, MyDirtyHobby, Pinterest, Snapchat, Threads, Tumblr, TikTok, TikTok clone, Twitch, Twitter (X), Other)
-# Last modified: 20.10.2026
+# Last modified: 15.11.2026
 bild.de
 msn.com
 onlyfans.com
@@ -59,7 +59,6 @@ copilot.bing.com
 0.0.0.0 zh-cn.datememe.com
 
 # Dating sites
-# from https://github.com/StevenBlack/hosts/issues/2023
 0.0.0.0 badoo.com
 0.0.0.0 bumble.com
 0.0.0.0 clover.co
