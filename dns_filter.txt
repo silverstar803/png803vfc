@@ -1,4 +1,3 @@
-# Title: DNS-Filter Liste (Bing.com, Clubhouse, Copilot, DateMeme, Dating sites, Facebook, Grok AI, ko-fi, LinkedIn, Meta AI, MySpace, MyDirtyHobby, Pinterest, Snapchat, Threads, Tumblr, TikTok, TikTok clone, Twitch, Twitter (X), Other)
 # Last modified: 15.11.2026
 bild.de
 msn.com
@@ -33,6 +32,10 @@ copilot.cloud.microsoft
 sydney.bing.com
 edgeservices.bing.com
 copilot.bing.com
+
+# Other
+0.0.0.0 pinpages.alwaysdata.net
+0.0.0.0 allotalk.com
 
 # DateMeme
 0.0.0.0 datememe.com
@@ -3125,7 +3128,3 @@ mydirtyhobby.de
 0.0.0.0 www2.twitter.com
 0.0.0.0 www4.twitter.com
 0.0.0.0 x.com
-
-# Other
-0.0.0.0 pinpages.alwaysdata.net
-0.0.0.0 allotalk.com
