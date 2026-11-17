@@ -9,6 +9,8 @@ gaml.app
 patreon.com
 poppen.de
 fansly.com
+maloum.com
+getmysocials.org
 
 # Bing.com
 bing.com
