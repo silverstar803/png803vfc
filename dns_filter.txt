@@ -78,11 +78,6 @@ copilot.bing.com
 0.0.0.0 tinder.com
 0.0.0.0 weareher.com
 
-# Grok AI
-grok.com
-x.ai
-api.x.ai
-
 # ko-fi
 ko-fi.com
 *.ko-fi.com
