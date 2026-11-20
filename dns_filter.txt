@@ -1,4 +1,9 @@
+# Bing, Clubhouse, Copilot, DateMeme, Dating Sites, ko-fi, Meta AI, MyDirtyHobby, MySpace, Other, Pinterest, Snapchat, Threads, Tumblr, Twitch, Twitter
+#
 # Last modified: 20.11.2026
+#
+# ===============================================================
+
 bild.de
 msn.com
 onlyfans.com
