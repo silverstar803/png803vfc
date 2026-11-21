@@ -5,5 +5,15 @@
 </div>
 
 <!--
-**silverstar** 
+**Proton Mail** 
+-->
+
+<div align="center">
+
+  [![Mail](https://img.shields.io/badge/T--Online-FFCC00.svg?style=for-the-badge&logo= Telekom&logoColor=white)](mailto:silverstar_ms@t-online.de)
+
+</div>
+
+<!--
+**silverstar**
 -->
