@@ -1,16 +1,26 @@
 <div align="center">
-  
-  [![Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF.svg?style=for-the-badge&logo=Proton-Mail&logoColor=white)](mailto:info@png803vfc.de)
-  
+
+  [![Mail](https://img.shields.io/badge/T--Online%20Mail-FFCC00.svg?style=for-the-badge&logo=telekom&logoColor=white)](mailto:silverstar_ms@t-online.de)
+
 </div>
 
 <!--
-**Proton Mail** 
+**silverstar**
 -->
-
+#
 <div align="center">
 
-  [![Mail](https://img.shields.io/badge/T--Online%20Mail-FFCC00.svg?style=for-the-badge&logo=telekom&logoColor=white)](mailto:silverstar_ms@t-online.de)
+  [![Mail](https://img.shields.io/badge/T--Online%20Mail-FFCC00.svg?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:silverstar_ms@t-online.de)
+
+</div>
+
+<!--
+**silverstar**
+-->
+#
+<div align="center">
+
+  [![Mail](https://img.shields.io/badge/T--Online%20Mail-FFCC00.svg?style=for-the-badge)](mailto:silverstar_ms@t-online.de)
 
 </div>
 
