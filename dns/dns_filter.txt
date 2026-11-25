@@ -2,11 +2,13 @@
 #
 # Last modified: 20.11.2026
 
+0.0.0.0 argentinawarez.com
 0.0.0.0 bild.de
 0.0.0.0 charlottelily.com
 0.0.0.0 cine.to
 0.0.0.0 depop.com
 0.0.0.0 doku-stream.org
+0.0.0.0 drop-games.org
 0.0.0.0 ebook-hell.to
 0.0.0.0 ebookee.org
 0.0.0.0 edels-stube.eu
@@ -29,6 +31,7 @@
 0.0.0.0 kinox.to
 0.0.0.0 kshow123.net
 0.0.0.0 laola1.tv
+0.0.0.0 link.me
 0.0.0.0 mail.ru
 0.0.0.0 maloum.com
 0.0.0.0 mov-world.net
