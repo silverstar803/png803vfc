@@ -1,3 +1,6 @@
+#
+# Last modified: 25.11.2026
+
 # Samsung TV - Tizen OS  (Samsung-operated ACR)
 0.0.0.0 acr-us-prd.samsungcloud.tv
 0.0.0.0 log-ingestion.samsungacr.com
