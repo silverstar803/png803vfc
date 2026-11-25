@@ -1,4 +1,4 @@
-<a href="https://raw.githubusercontent.com/silverstar803/png803vfc/refs/heads/main/dns/dns_filter.txt" target="_blank">DNS Filter</a>
+<a href="https://raw.githubusercontent.com/silverstar803/png803vfc/refs/heads/main/dns/dns_filter.txt" target="_blank">DNS Filter</a> (Bing, Copilot, ko-fi, MySpace)
 <br>
 <br>
 <a href="https://raw.githubusercontent.com/silverstar803/png803vfc/refs/heads/main/dns/dns_filter_social.txt" target="_blank">DNS Filter Social</a>
