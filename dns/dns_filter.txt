@@ -4,36 +4,36 @@
 #
 # ===============================================================
 
-bild.de
-msn.com
-onlyfans.com
-fansly.com
-charlottelily.com
-depop.com
-gaml.app
-patreon.com
-poppen.de
-fansly.com
-maloum.com
-getmysocials.org
-findmylink.bio
+0.0.0.0 bild.de
+0.0.0.0 msn.com
+0.0.0.0 onlyfans.com
+0.0.0.0 fansly.com
+0.0.0.0 charlottelily.com
+0.0.0.0 depop.com
+0.0.0.0 gaml.app
+0.0.0.0 patreon.com
+0.0.0.0 poppen.de
+0.0.0.0 fansly.com
+0.0.0.0 maloum.com
+0.0.0.0 getmysocials.org
+0.0.0.0 findmylink.bio
 
 # Bing.com
-bing.com
-cn.bing.com
-global.bing.com
-www.bing.com
+0.0.0.0 bing.com
+0.0.0.0 cn.bing.com
+0.0.0.0 global.bing.com
+0.0.0.0 www.bing.com
 
 # Copilot
-copilot.microsoft.com
-copilot.cloud.microsoft
-sydney.bing.com
-edgeservices.bing.com
-copilot.bing.com
+0.0.0.0 copilot.microsoft.com
+0.0.0.0 copilot.cloud.microsoft
+0.0.0.0 sydney.bing.com
+0.0.0.0 edgeservices.bing.com
+0.0.0.0 copilot.bing.com
 
 # ko-fi
-ko-fi.com
-*.ko-fi.com
+0.0.0.0 ko-fi.com
+0.0.0.0 *.ko-fi.com
 
 # MySpace
 0.0.0.0 a1-images.myspacecdn.com
