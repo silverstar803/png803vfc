@@ -1,7 +1,11 @@
-<a href="https://raw.githubusercontent.com/silverstar803/png803vfc/refs/heads/main/dns/dns_filter.txt" target="_blank">DNS Filter</a> (Bing, Copilot, ko-fi, MySpace)
+<a href="https://raw.githubusercontent.com/silverstar803/png803vfc/refs/heads/main/dns/dns_filter.txt" target="_blank">DNS Filter</a>
+<br>
+(Bing, Copilot, ko-fi, MySpace)
 <br>
 <br>
-<a href="https://raw.githubusercontent.com/silverstar803/png803vfc/refs/heads/main/dns/dns_filter_social.txt" target="_blank">DNS Filter Social</a> (Clubhouse, DateMeme, Dating sites, Facebook, Grok AI, LinkedIn, Meta AI, MyDirtyHobby, Pinterest, Snapchat, Threads, Tumblr, TikTok, TikTok Clone, Twitch, Twitter)
+<a href="https://raw.githubusercontent.com/silverstar803/png803vfc/refs/heads/main/dns/dns_filter_social.txt" target="_blank">DNS Filter Social</a>
+<br>
+(Clubhouse, DateMeme, Dating sites, Facebook, Grok AI, LinkedIn, Meta AI, MyDirtyHobby, Pinterest, Snapchat, Threads, Tumblr, TikTok, TikTok Clone, Twitch, Twitter)
 <br>
 <br>
 <a href="https://raw.githubusercontent.com/silverstar803/png803vfc/refs/heads/main/dns/dns_filter_tv.txt" target="_blank">DNS Filter TV</a>
