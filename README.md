@@ -1,4 +1,4 @@
-Test Text <a href="http://png803vfc.de" target="_blank">Link</a>
+Test Text <a href="[http://png803vfc.de](https://raw.githubusercontent.com/silverstar803/png803vfc/refs/heads/main/dns/dns_filter.txt)" target="_blank">DNS Filter</a>
 
 <div align="center">
 
