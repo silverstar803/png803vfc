@@ -1,13 +1,17 @@
 # div, Bing, Copilot, ko-fi, MySpace
 #
-# Last modified: 25.11.2026
+# Last modified: 27.11.2026
 
+0.0.0.0 adnxs.com
+0.0.0.0 adservice.google.com
+0.0.0.0 adsrvr.org
 0.0.0.0 argentinawarez.com
 0.0.0.0 bild.de
 0.0.0.0 charlottelily.com
 0.0.0.0 cine.to
 0.0.0.0 depop.com
 0.0.0.0 doku-stream.org
+0.0.0.0 doubleclick.net
 0.0.0.0 drop-games.org
 0.0.0.0 ebook-hell.to
 0.0.0.0 ebookee.org
@@ -22,6 +26,8 @@
 0.0.0.0 gaml.app
 0.0.0.0 getmysocials.org
 0.0.0.0 goldesel.to
+0.0.0.0 googleadservices.com
+0.0.0.0 googlesyndication.com
 0.0.0.0 hdfilme.tv
 0.0.0.0 keygens.nl
 0.0.0.0 kino-streamz.com
@@ -40,17 +46,25 @@
 0.0.0.0 mygully.com
 0.0.0.0 ok.ru
 0.0.0.0 onlyfans.com
+0.0.0.0 outbrain.com
 0.0.0.0 patreon.com
 0.0.0.0 poppen.de
+0.0.0.0 pornhub.com
+0.0.0.0 redtube.com
 0.0.0.0 schoener-fernsehen.com
 0.0.0.0 seriesever.net
 0.0.0.0 streamable.com
 0.0.0.0 streamango.com
+0.0.0.0 taboola.com
 0.0.0.0 thevideo.com
 0.0.0.0 videogold.de
 0.0.0.0 vidto.me
 0.0.0.0 view4u.co
 0.0.0.0 vk.com
+0.0.0.0 xhamster.com
+0.0.0.0 xnxx.com
+0.0.0.0 xvideos.com
+0.0.0.0 youporn.com
 
 # Bing.com
 0.0.0.0 bing.com
