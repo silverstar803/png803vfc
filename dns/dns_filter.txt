@@ -1,14 +1,26 @@
 # div, Bing, Copilot, ko-fi, MySpace
 #
-# Last modified: 27.11.2026
+# Last modified: 28.11.2026
 
+0.0.0.0 ad.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 adform.net
 0.0.0.0 adnxs.com
+0.0.0.0 ads.google.com
+0.0.0.0 adsafeprotected.com
 0.0.0.0 adservice.google.com
 0.0.0.0 adsrvr.org
+0.0.0.0 advertising.com
+0.0.0.0 amazon-adsystem.com
 0.0.0.0 argentinawarez.com
+0.0.0.0 bangbros.com
+0.0.0.0 bidswitch.net
 0.0.0.0 bild.de
+0.0.0.0 brazzers.com
+0.0.0.0 casalemedia.com
 0.0.0.0 charlottelily.com
 0.0.0.0 cine.to
+0.0.0.0 criteo.com
 0.0.0.0 depop.com
 0.0.0.0 doku-stream.org
 0.0.0.0 doubleclick.net
@@ -16,9 +28,10 @@
 0.0.0.0 ebook-hell.to
 0.0.0.0 ebookee.org
 0.0.0.0 edels-stube.eu
+0.0.0.0 empflix.com
 0.0.0.0 eroprofile.com
 0.0.0.0 fansly.com
-0.0.0.0 fansly.com
+0.0.0.0 faphouse.com
 0.0.0.0 filmpalast.to
 0.0.0.0 findmylink.bio
 0.0.0.0 flashx.io
@@ -29,6 +42,7 @@
 0.0.0.0 googleadservices.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 hdfilme.tv
+0.0.0.0 hentaihaven.xxx
 0.0.0.0 keygens.nl
 0.0.0.0 kino-streamz.com
 0.0.0.0 kinoger.com
@@ -37,34 +51,56 @@
 0.0.0.0 kinox.to
 0.0.0.0 kshow123.net
 0.0.0.0 laola1.tv
+0.0.0.0 lijit.com
 0.0.0.0 link.me
 0.0.0.0 mail.ru
 0.0.0.0 maloum.com
+0.0.0.0 manyvids.com
+0.0.0.0 media.net
 0.0.0.0 mov-world.net
 0.0.0.0 movie2k.ag
 0.0.0.0 msn.com
 0.0.0.0 mygully.com
 0.0.0.0 ok.ru
 0.0.0.0 onlyfans.com
+0.0.0.0 openx.net
 0.0.0.0 outbrain.com
 0.0.0.0 patreon.com
 0.0.0.0 poppen.de
+0.0.0.0 porn.com
 0.0.0.0 pornhub.com
+0.0.0.0 pornhub.org
+0.0.0.0 porntube.com
+0.0.0.0 pubmatic.com
+0.0.0.0 quantserve.com
 0.0.0.0 redtube.com
+0.0.0.0 rubiconproject.com
 0.0.0.0 schoener-fernsehen.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 seriesever.net
+0.0.0.0 smartadserver.com
+0.0.0.0 spankbang.com
 0.0.0.0 streamable.com
 0.0.0.0 streamango.com
 0.0.0.0 taboola.com
+0.0.0.0 teads.tv
+0.0.0.0 thetradedesk.com
 0.0.0.0 thevideo.com
+0.0.0.0 tnaflix.com
+0.0.0.0 tube8.com
 0.0.0.0 videogold.de
 0.0.0.0 vidto.me
 0.0.0.0 view4u.co
 0.0.0.0 vk.com
 0.0.0.0 xhamster.com
+0.0.0.0 xli.ink
 0.0.0.0 xnxx.com
 0.0.0.0 xvideos.com
+0.0.0.0 yieldmo.com
+0.0.0.0 youjizz.com
 0.0.0.0 youporn.com
+0.0.0.0 youporngay.com
 
 # Bing.com
 0.0.0.0 bing.com
